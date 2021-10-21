@@ -1,6 +1,6 @@
 ## Stefano Amorelli
 
-<img align="right" height="200px" src="https://amorelli.tech/images/p1p.jpg">
+<img align="right" height="350px" src="https://amorelli.tech/images/p1p.jpg">
 
 
 <p>
