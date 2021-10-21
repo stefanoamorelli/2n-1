@@ -29,6 +29,3 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="socketio" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 </p>
-<p align="right">
-<img align="right" height="350px" src="https://amorelli.tech/images/p1p.jpg">
-</p>
