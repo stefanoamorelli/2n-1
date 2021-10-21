@@ -1,4 +1,4 @@
-<img src="https://amorelli.tech/storage/github-activity.svg" />
+<img src="https://amorelli.tech/github-activity" />
 # Technical Stacks
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="70" height="70"/>
