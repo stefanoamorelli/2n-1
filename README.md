@@ -36,4 +36,3 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="70" height="70"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="70" height="70"/>
 </p>
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=2n-1"/>
