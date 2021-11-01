@@ -1,3 +1,4 @@
+<img src="https://amorelli.tech/storage/github-activity.svg" />
 
 # ⌨️ Technical Stacks
 <p align="left">
