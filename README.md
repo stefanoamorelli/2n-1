@@ -1,4 +1,4 @@
-<img src="https://amorelli.tech/storage/github-activity.svg?update-2" />
+<img src="https://amorelli.tech/storage/github-activity.svg?update-3" />
 
 # ⌨️ Technical Stacks
 <p align="left">
