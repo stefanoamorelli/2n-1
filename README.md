@@ -1,5 +1,3 @@
-<img src="https://amorelli.tech/storage/github-activity.svg?update-3" />
-
 # ⌨️ Technical Stacks
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="70" height="70"/>
